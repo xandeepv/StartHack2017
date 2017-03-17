@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "StartHack 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandeepv/StartHack2017.git"
+  },
+  "keywords": [
+    "nodeJs"
+  ],
+  "author": "Xandeep Alexander and Sumit Chouhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xandeepv/StartHack2017/issues"
+  },
+  "homepage": "https://github.com/xandeepv/StartHack2017#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "nodemon": "^1.11.0"
+  }
+}
